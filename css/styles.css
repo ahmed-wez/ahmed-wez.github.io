@@ -14,7 +14,7 @@ body {
 body {
   margin: 0;
   background: #ffffff;
-  color: #0f172a;
+  color: #000;
   font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -97,10 +97,6 @@ summary {
   max-width: 48ch;
   display: flex;
   gap: auto;
-}
-
-.bio-links {
-  color: #666;
 }
 
 @media (max-width: 768px) {
